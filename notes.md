@@ -18,6 +18,7 @@
 ### Local Environment
 - Python3 & Pip3
 - Visual Studio Code
+    - Jupyter Extension (https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 ### Cloud Environment
 - Google Collab (https://colab.research.google.com/)
 
@@ -26,6 +27,6 @@
 python -m venv  ML_Beginner_env
 source ML_Beginner_env/bin/activate
 pip install numpy pandas scikit-learn matplotlib seaborn ipykernel notebook
-python -m ipykernel install --user --name=[ML_Beginner_WS]
+python -m ipykernel install --user --name=ML_Beginner_WS
 jupyter notebook
 ```
