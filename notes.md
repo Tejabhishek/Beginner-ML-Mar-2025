@@ -38,3 +38,8 @@ jupyter notebook
 - samples (dataset OR collection of observations)
 - Model - identifies & encapsulates the relationship among the features and target (incase of supervised) OR among the features (incase of unsupervised)
 - ML Algorithm => creates a model by analysing the features & target
+
+## References
+1. "Before machine learning" series
+2. An Introduction to Statistical Learning
+3. 
